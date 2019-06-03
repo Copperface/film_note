@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/film_note/static/css/main.34de6062.chunk.css",
+    "main.js": "/film_note/static/js/main.de3e3b84.chunk.js",
+    "main.js.map": "/film_note/static/js/main.de3e3b84.chunk.js.map",
+    "runtime~main.js": "/film_note/static/js/runtime~main.6fe2181c.js",
+    "runtime~main.js.map": "/film_note/static/js/runtime~main.6fe2181c.js.map",
+    "static/js/2.576496b6.chunk.js": "/film_note/static/js/2.576496b6.chunk.js",
+    "static/js/2.576496b6.chunk.js.map": "/film_note/static/js/2.576496b6.chunk.js.map",
+    "index.html": "/film_note/index.html",
+    "precache-manifest.eebbc584bbc40bc56931232acff7a12a.js": "/film_note/precache-manifest.eebbc584bbc40bc56931232acff7a12a.js",
+    "service-worker.js": "/film_note/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/film_note/static/css/main.34de6062.chunk.css.map"
+  }
+}
